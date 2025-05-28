@@ -19,6 +19,6 @@ Renamed column headers to clean, lowercase names without spaces (e.g., Annual In
 
 📤 Output Files
 
-Untititles9.ipynb – Jupyter Notebook with all cleaning steps
+Untitled9.ipynb – Jupyter Notebook with all cleaning steps
 
 mall_customers_cleaned.csv – Final cleaned dataset
